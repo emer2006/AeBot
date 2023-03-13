@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/EmerBot
-> cd EmerBot
+> git clone https://github.com/emer2006/AeBot
+> cd AeBot
 > yarn install 
 > npm install
 > npm update
